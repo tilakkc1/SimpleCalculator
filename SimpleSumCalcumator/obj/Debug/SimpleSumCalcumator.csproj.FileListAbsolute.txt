@@ -1,0 +1,9 @@
+c:\users\tilak\documents\visual studio 2015\Projects\SimpleSumCalcumator\SimpleSumCalcumator\bin\Debug\SimpleSumCalcumator.exe.config
+c:\users\tilak\documents\visual studio 2015\Projects\SimpleSumCalcumator\SimpleSumCalcumator\bin\Debug\SimpleSumCalcumator.exe
+c:\users\tilak\documents\visual studio 2015\Projects\SimpleSumCalcumator\SimpleSumCalcumator\bin\Debug\SimpleSumCalcumator.pdb
+c:\users\tilak\documents\visual studio 2015\Projects\SimpleSumCalcumator\SimpleSumCalcumator\obj\Debug\SimpleSumCalcumator.csprojResolveAssemblyReference.cache
+c:\users\tilak\documents\visual studio 2015\Projects\SimpleSumCalcumator\SimpleSumCalcumator\obj\Debug\SimpleSumCalcumator.Form1.resources
+c:\users\tilak\documents\visual studio 2015\Projects\SimpleSumCalcumator\SimpleSumCalcumator\obj\Debug\SimpleSumCalcumator.Properties.Resources.resources
+c:\users\tilak\documents\visual studio 2015\Projects\SimpleSumCalcumator\SimpleSumCalcumator\obj\Debug\SimpleSumCalcumator.csproj.GenerateResource.Cache
+c:\users\tilak\documents\visual studio 2015\Projects\SimpleSumCalcumator\SimpleSumCalcumator\obj\Debug\SimpleSumCalcumator.exe
+c:\users\tilak\documents\visual studio 2015\Projects\SimpleSumCalcumator\SimpleSumCalcumator\obj\Debug\SimpleSumCalcumator.pdb
